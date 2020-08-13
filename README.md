@@ -15,7 +15,7 @@ http://localhost:8088/swagger-ui.html
 ![calculateRewards](https://user-images.githubusercontent.com/69600433/90078390-bcfa8900-dcd2-11ea-9190-baad5620f242.png)
 
 
-### **click on try it and add body from TestData.json and hit on execute**
+### **Click on try it and add body from TestData.json and hit on execute**
 
 ![tryit](https://user-images.githubusercontent.com/69600433/90078746-d223e780-dcd3-11ea-8c17-eb9650d7a5b0.png)
 
